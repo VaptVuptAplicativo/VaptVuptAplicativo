@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##QUEM SOMOS:
+## QUEM SOMOS:
 
 A VaptVupt é a plataforma de mobilidade urbana mais completa do Brasil, que oferece através da regulamentação das atividades de transporte, preços justos, segurança, melhores condições de trabalho e benefícios.
