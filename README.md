@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **VaptVuptAplicativo/VaptVuptAplicativo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Olá 👋
+QUEM SOMOS
+A VaptVupt é a plataforma de mobilidade urbana mais completa do Brasil, que oferece através da regulamentação das atividades de transporte, preços justos, segurança, melhores condições de trabalho e benefícios.
